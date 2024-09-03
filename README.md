@@ -25,6 +25,16 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![intellij idea](https://img.shields.io/badge/Intellij%20Idea-000000.svg?&style=for-the-badge&logo=Intellij%20Idea&logoColor=white)
 
+### Reward
+
+## Awards and Achievements
+
+| 연도  |   수상 내역              | 기관                   |
+|------|-----------------------|-----------------------|
+| 2024 | 오아시스 특별상           | 오아시스 해커톤 대학생 연합, 광주정보문화산업진흥원 |
+| 2024 | Friendship Award      | Samsung Software Academy For Youth SSAFY |
+
+
 
 
 <!--
