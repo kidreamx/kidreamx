@@ -25,9 +25,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![intellij idea](https://img.shields.io/badge/Intellij%20Idea-000000.svg?&style=for-the-badge&logo=Intellij%20Idea&logoColor=white)
 
-### Reward
-
-## Awards and Achievements
+### 수상기록🏆
 
 | 연도  |   수상 내역              | 기관                   |
 |------|-----------------------|-----------------------|
