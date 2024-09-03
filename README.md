@@ -30,7 +30,7 @@
 | 연도  |   수상 내역              | 기관                   |
 |------|-----------------------|-----------------------|
 | 2024 | 오아시스 특별상           | 오아시스 해커톤 대학생 연합, 광주정보문화산업진흥원 |
-| 2024 | Friendship Award      | Samsung Software Academy For Youth SSAFY |
+| 2024 | Friendship Award In Internship | Samsung Software Academy For Youth SSAFY |
 
 
 
