@@ -34,6 +34,15 @@
 | 2024 | Friendship Award In Internship | Samsung Software Academy For Youth SSAFY |
 
 
+# Project💻
+
+| Period  |   Project Name              |    role                 |          Organization             |
+|------|-----------------------|-----------------------|-----------------------|
+| 2023.07~2023.08 |     열정노력끈기       | FrontEnd Engineering |  chosun university (https://www3.chosun.ac.kr/sites/chosun/index.do)   |
+| 2024.03~2024.06 |   OrangeTravel      | BackEnd Engineering |  chosun university   (https://www3.chosun.ac.kr/sites/chosun/index.do)  |
+| 2024.03~2024.06 |   Jarvis_Project    | Full-stack Engineering | chosun university  (https://www3.chosun.ac.kr/sites/chosun/index.do)  |
+| 2024.07~2024.08 |   Babylion-ceritification| Backend Engineering |  LikeLion  (https://likelion.net)       |
+| 2024.08~ NOW    |   Darak             | Full-stack Engineering | gicon    (https://www.gicon.or.kr)           |
 
 
 <!--
