@@ -25,14 +25,20 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![intellij idea](https://img.shields.io/badge/Intellij%20Idea-000000.svg?&style=for-the-badge&logo=Intellij%20Idea&logoColor=white)
 
+# qualifications🪪
+| 연도  |   자격증              | 기관                 |
+|------|-----------------------|-----------------------|
+| 2024 | 정보처리기사   | 국가 자격증 시험(2024/12/11)|
 
-# 수상기록🏆
+
+# 수상 및 대회 참여 기록🏆
 
 | 연도  |   수상 내역              | 대회 및 기관                 |
 |------|-----------------------|-----------------------|
 | 2024 | 오아시스 특별상           | 오아시스 해커톤(오아시스 해커톤 대학생 연합, 광주정보문화산업진흥원) |
 | 2024 | Friendship Award In Internship | Samsung Software Academy For Youth SSAFY |
 | 2024 | 대상   |  2024 조선대학교 프로그래밍 경진대회 (조선대학교)|
+| 2024 | 본선 진출   |  2024 국제 대학생 프로그래밍 대회 (ICPC.korea)|
 
 
 # Project💻
