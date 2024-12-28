@@ -3,6 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkidreamx&count_bg=%233CDEF1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![코드트리|실력진단-kidreamx](https://banner.codetree.ai/v1/banner/kidreamx)](https://www.codetree.ai/profiles/kidreamx)
+
 ![Kyoungil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidreamx&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsruddlf10)](https://solved.ac/dbsruddlf10/)
 
@@ -25,14 +26,19 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![intellij idea](https://img.shields.io/badge/Intellij%20Idea-000000.svg?&style=for-the-badge&logo=Intellij%20Idea&logoColor=white)
 
-# qualifications🪪
-| 연도  |   자격증              | 기관                 |
+#<center>Career🧑🏻‍💻</center>
+| 기관  |   이력          | 기간                 |
 |------|-----------------------|-----------------------|
-| 2024 | 정보처리기사   | 국가 자격증 시험(2024/12/11)|
+| [Samsung Software Academy For Youth SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) | SSAFY Internship   | 2024.07 ~ 2024.07|
+| [LikeLion](https://likelion.net) | LikeLion University Student Club 12th | 2024.03 ~ 2024.12|
+
+#<center> qualifications🪪</center>
+| 연도  |   자격증           | 기관                 |
+|------|-----------------------|-----------------------|
+| 2024 | 정보처리기사   | 국가 자격증 시험(2024.12.11)|
 
 
-# 수상 및 대회 참여 기록🏆
-
+#<center> Reward🏆 </center>
 | 연도  |   수상 내역              | 대회 및 기관                 |
 |------|-----------------------|-----------------------|
 | 2024 | 오아시스 특별상           | 오아시스 해커톤(오아시스 해커톤 대학생 연합, 광주정보문화산업진흥원) |
@@ -41,7 +47,7 @@
 | 2024 | 본선 진출   |  2024 국제 대학생 프로그래밍 대회 (ICPC.korea)|
 
 
-# Project💻
+#<center> Project💻 </center>
 
 | Period  |   Project Name              |    role                 |          Organization             |
 |------|-----------------------|-----------------------|-----------------------|
