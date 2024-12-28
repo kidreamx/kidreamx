@@ -1,6 +1,7 @@
 <h2 align="center"> Kyoungil-YOON 👋</h2>
 
 
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkidreamx&count_bg=%233CDEF1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![코드트리|실력진단-kidreamx](https://banner.codetree.ai/v1/banner/kidreamx)](https://www.codetree.ai/profiles/kidreamx)
@@ -11,6 +12,7 @@
 <h2 align="center">💪Skills</h2>
 
 <h3 align="center">Platforms & Languages</h3>
+<div align="center>
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
@@ -22,36 +24,45 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 
+</div>
 
 <h3 align="center">Tools</h3>
-
+<div align="center>
+  
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![intellij idea](https://img.shields.io/badge/Intellij%20Idea-000000.svg?&style=for-the-badge&logo=Intellij%20Idea&logoColor=white)
 
+</div>
+
 <h1 align="center">Career🧑🏻‍💻</h1>
 <div align="center">
+
   
 | 기관  |   이력          | 기간                 |
 |------|-----------------------|-----------------------|
 | [Samsung Software Academy For Youth SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) | SSAFY Internship   | 2024.07 ~ 2024.07|
 | [LikeLion](https://likelion.net) | LikeLion University Student Club 12th | 2024.03 ~ 2024.12|
 
+
 </div>
 
 <h1 align="center">qualifications🪪</h1>
 <div align="center">
+
   
 | 연도  |   자격증           | 기관                 |
 |------|-----------------------|-----------------------|
 | 2024 | 정보처리기사   | 국가 자격증 시험(2024.12.11)|
 
+
 </div>
 
 <h1 align="center"> Reward🏆 </h1>
 <div align = "center">
+
 
 | 연도  |   수상 내역              | 대회 및 기관                 |
 |------|-----------------------|-----------------------|
@@ -59,6 +70,7 @@
 | 2024 | Friendship Award In Internship | Samsung Software Academy For Youth SSAFY |
 | 2024 | 대상   |  2024 조선대학교 프로그래밍 경진대회 (조선대학교)|
 | 2024 | 본선 진출   |  2024 국제 대학생 프로그래밍 대회 (ICPC.korea)|
+
 
 </div>
 
