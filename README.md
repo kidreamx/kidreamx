@@ -1,10 +1,13 @@
 <h2 align="center"> Kyoungil-YOON 👋</h2>
 
 
+<div align = "center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkidreamx&count_bg=%233CDEF1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![코드트리|실력진단-kidreamx](https://banner.codetree.ai/v1/banner/kidreamx)](https://www.codetree.ai/profiles/kidreamx)
+
+</div>
 
 ![Kyoungil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidreamx&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsruddlf10)](https://solved.ac/dbsruddlf10/)
@@ -58,7 +61,7 @@
 |------|-----------------------|-----------------------|
 | 2024 | 정보처리기사   | 국가 자격증 시험(2024.12.11)|
 
-
+<br>
 </div>
 
 <h1 align="center"> Reward🏆 </h1>
@@ -72,7 +75,7 @@
 | 2024 | 대상   |  2024 조선대학교 프로그래밍 경진대회 (조선대학교)|
 | 2024 | 본선 진출   |  2024 국제 대학생 프로그래밍 대회 (ICPC.korea)|
 
-
+<br>
 </div>
 
 <h1 align="center"> Project💻 </h1>
@@ -86,6 +89,7 @@
 | 2024.07~2024.08 |   Babylion-ceritification| Backend Engineering |  [LikeLion](https://likelion.net)       |
 | 2024.08~ NOW    |   Darak             | Full-stack Engineering | [gicon](https://www.gicon.or.kr)           |
 
+<br>
 </div>
 
 <!--
