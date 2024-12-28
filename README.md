@@ -29,18 +29,21 @@
 ![intellij idea](https://img.shields.io/badge/Intellij%20Idea-000000.svg?&style=for-the-badge&logo=Intellij%20Idea&logoColor=white)
 
 <h1 align="center">Career🧑🏻‍💻</h1>
+
 | 기관  |   이력          | 기간                 |
 |------|-----------------------|-----------------------|
 | [Samsung Software Academy For Youth SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) | SSAFY Internship   | 2024.07 ~ 2024.07|
 | [LikeLion](https://likelion.net) | LikeLion University Student Club 12th | 2024.03 ~ 2024.12|
 
 <h1 align="center">qualifications🪪</h1>
+
 | 연도  |   자격증           | 기관                 |
 |------|-----------------------|-----------------------|
 | 2024 | 정보처리기사   | 국가 자격증 시험(2024.12.11)|
 
 
 <h1 align="center"> Reward🏆 </h1>
+
 | 연도  |   수상 내역              | 대회 및 기관                 |
 |------|-----------------------|-----------------------|
 | 2024 | 오아시스 특별상           | 오아시스 해커톤(오아시스 해커톤 대학생 연합, 광주정보문화산업진흥원) |
@@ -50,6 +53,7 @@
 
 
 <h1 align="center"> Project💻 </h1>
+
 | Period  |   Project Name              |    role                 |          Organization             |
 |------|-----------------------|-----------------------|-----------------------|
 | 2023.07~2023.08 |     열정노력끈기       | FrontEnd Engineering |  [chosun university](https://www3.chosun.ac.kr/sites/chosun/index.do)   |
