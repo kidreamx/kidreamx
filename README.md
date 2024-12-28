@@ -29,20 +29,24 @@
 ![intellij idea](https://img.shields.io/badge/Intellij%20Idea-000000.svg?&style=for-the-badge&logo=Intellij%20Idea&logoColor=white)
 
 <h1 align="center">Career🧑🏻‍💻</h1>
-
+<div align="center">
 | 기관  |   이력          | 기간                 |
 |------|-----------------------|-----------------------|
 | [Samsung Software Academy For Youth SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) | SSAFY Internship   | 2024.07 ~ 2024.07|
 | [LikeLion](https://likelion.net) | LikeLion University Student Club 12th | 2024.03 ~ 2024.12|
+</div>
 
 <h1 align="center">qualifications🪪</h1>
-
+<div align="center">
+  
 | 연도  |   자격증           | 기관                 |
 |------|-----------------------|-----------------------|
 | 2024 | 정보처리기사   | 국가 자격증 시험(2024.12.11)|
 
+</div>
 
 <h1 align="center"> Reward🏆 </h1>
+<div align = "center">
 
 | 연도  |   수상 내역              | 대회 및 기관                 |
 |------|-----------------------|-----------------------|
@@ -51,8 +55,10 @@
 | 2024 | 대상   |  2024 조선대학교 프로그래밍 경진대회 (조선대학교)|
 | 2024 | 본선 진출   |  2024 국제 대학생 프로그래밍 대회 (ICPC.korea)|
 
+</div>
 
 <h1 align="center"> Project💻 </h1>
+<div align = "center">
 
 | Period  |   Project Name              |    role                 |          Organization             |
 |------|-----------------------|-----------------------|-----------------------|
@@ -62,6 +68,7 @@
 | 2024.07~2024.08 |   Babylion-ceritification| Backend Engineering |  [LikeLion](https://likelion.net)       |
 | 2024.08~ NOW    |   Darak             | Full-stack Engineering | [gicon](https://www.gicon.or.kr)           |
 
+</div>
 
 <!--
 **kidreamx/kidreamx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
