@@ -43,7 +43,7 @@
   
 | 기관  |   이력          | 기간                 |
 |------|-----------------------|-----------------------|
-| [Samsung Software Academy For Youth SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) | SSAFY Internship   | 2024.07 ~ 2024.07|
+| [SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) | SSAFY Internship   | 2024.07 ~ 2024.07|
 | [LikeLion](https://likelion.net) | LikeLion University Student Club 12th | 2024.03 ~ 2024.12|
 
 
