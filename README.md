@@ -1,14 +1,6 @@
 <h2 align="center"> Kyoungil-YOON 👋</h2>
 
 
-<div align = "center">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkidreamx&count_bg=%233CDEF1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![코드트리|실력진단-kidreamx](https://banner.codetree.ai/v1/banner/kidreamx)](https://www.codetree.ai/profiles/kidreamx)
-
-</div>
-
 ![Kyoungil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidreamx&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsruddlf10)](https://solved.ac/dbsruddlf10/)
 
@@ -49,6 +41,7 @@
 |------|-----------------------|-----------------------|
 | [SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) | SSAFY Internship   | 2024.07 ~ 2024.07|
 | [LikeLion](https://likelion.net) | LikeLion University Student Club 12th | 2024.03 ~ 2024.12|
+| [SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) | SSAFY    | 2025.01 ~ NOW|
 
 <br>
 </div>
@@ -87,7 +80,8 @@
 | 2024.03~2024.06 |   OrangeTravel      | BackEnd Engineering |  [chosun university](https://www3.chosun.ac.kr/sites/chosun/index.do)  |
 | 2024.03~2024.06 |   Jarvis_Project    | Full-stack Engineering | [chosun university](https://www3.chosun.ac.kr/sites/chosun/index.do)  |
 | 2024.07~2024.08 |   Babylion-ceritification| Backend Engineering |  [LikeLion](https://likelion.net)       |
-| 2024.08~ NOW    |   Darak             | Full-stack Engineering | [gicon](https://www.gicon.or.kr)           |
+| 2024.08~ 2024.08    |   Darak             | Full-stack Engineering | [gicon](https://www.gicon.or.kr)           |
+| 2025.04~ 2025.05    |   저기어때             | Full-stack Engineering | [ssafy](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)           |
 
 <br>
 </div>
