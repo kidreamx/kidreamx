@@ -68,6 +68,7 @@
 | 2024 | 대상   |  2024 조선대학교 프로그래밍 경진대회 (조선대학교)|
 | 2024 | 본선 진출   |  2024 국제 대학생 프로그래밍 대회 (ICPC.korea)|
 | 2025 | 1학기 프로젝트 최우수상 |  Samsung Software Academy For Youth SSAFY |
+| 2025 | 공통 프로젝트 우수상 |  Samsung Software Academy For Youth SSAFY |
 
 <br>
 </div>
@@ -83,6 +84,7 @@
 | 2024.07~2024.08 |   Babylion-ceritification| Backend Engineering |  [LikeLion](https://likelion.net)       |
 | 2024.08~ 2024.08    |   Darak             | Full-stack Engineering | [gicon](https://www.gicon.or.kr)           |
 | 2025.04~ 2025.05    |   저기어때             | Full-stack Engineering | [ssafy](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)           |
+| 2025.07~ 2025.08    |   ottereview             | BackEnd Engineering & Infra | [ssafy](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)           |
 
 <br>
 </div>
