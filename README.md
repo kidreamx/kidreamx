@@ -1,7 +1,13 @@
 <h2 align="center"> Kyoungil-YOON 👋</h2>
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsruddlf10)](https://solved.ac/dbsruddlf10/)
+<h2 align="center"> Kyoungil-YOON 👋</h2>
+
+<p align="center">
+  <a href="https://solved.ac/dbsruddlf10/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsruddlf10" alt="Solved.ac Profile">
+  </a>
+</p>
 
 <h2 align="center">💪Skills</h2>
 
