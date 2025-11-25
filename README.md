@@ -1,7 +1,7 @@
 <h2 align="center"> Kyoungil-YOON 👋</h2>
 
 
-<div align = "center"> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsruddlf10)](https://solved.ac/dbsruddlf10/) </div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsruddlf10)](https://solved.ac/dbsruddlf10/)
 
 <h2 align="center">💪Skills</h2>
 
