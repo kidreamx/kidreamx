@@ -1,7 +1,6 @@
 <h2 align="center"> Kyoungil-YOON 👋</h2>
 
 
-![Kyoungil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidreamx&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsruddlf10)](https://solved.ac/dbsruddlf10/)
 
 <h2 align="center">💪Skills</h2>
