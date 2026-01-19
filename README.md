@@ -43,7 +43,7 @@
 |------|-----------------------|-----------------------|
 | [SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) | SSAFY Internship   | 2024.07 ~ 2024.07|
 | [LikeLion](https://likelion.net) | LikeLion University Student Club 12th | 2024.03 ~ 2024.12|
-| [SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) | SSAFY    | 2025.01 ~ NOW|
+| [SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) | SSAFY    | 2025.01 ~ 2025.12|
 
 <br>
 </div>
