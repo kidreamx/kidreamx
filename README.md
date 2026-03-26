@@ -21,6 +21,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?&style=for-the-badge&logo=OpenAI&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2.svg?&style=for-the-badge&logo=Google-Gemini&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C.svg?&style=for-the-badge&logo=Apache-Spark&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF.svg?&style=for-the-badge&logo=Apache-Hadoop&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?&style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C.svg?&style=for-the-badge)
 </div>
 
 
